@@ -1,0 +1,168 @@
+fileFormatVersion: 2
+guid: dd3ef97e8e1561c48bb9e9ba055e99d1
+timeCreated: 1505493167
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: TraviaAT_RimFiller
+    100004: TraviaAT_Sidewall
+    100006: TraviaAT_Tread
+    100008: TraviaAT_Tread_MeshPart0
+    100010: TraviaAT_Tread_MeshPart1
+    100012: TraviaAT_Tread_MeshPart10
+    100014: TraviaAT_Tread_MeshPart11
+    100016: TraviaAT_Tread_MeshPart2
+    100018: TraviaAT_Tread_MeshPart3
+    100020: TraviaAT_Tread_MeshPart4
+    100022: TraviaAT_Tread_MeshPart5
+    100024: TraviaAT_Tread_MeshPart6
+    100026: TraviaAT_Tread_MeshPart7
+    100028: TraviaAT_Tread_MeshPart8
+    100030: TraviaAT_Tread_MeshPart9
+    100032: TraviaAT_TreadSection
+    400000: //RootNode
+    400002: TraviaAT_RimFiller
+    400004: TraviaAT_Sidewall
+    400006: TraviaAT_Tread
+    400008: TraviaAT_Tread_MeshPart0
+    400010: TraviaAT_Tread_MeshPart1
+    400012: TraviaAT_Tread_MeshPart10
+    400014: TraviaAT_Tread_MeshPart11
+    400016: TraviaAT_Tread_MeshPart2
+    400018: TraviaAT_Tread_MeshPart3
+    400020: TraviaAT_Tread_MeshPart4
+    400022: TraviaAT_Tread_MeshPart5
+    400024: TraviaAT_Tread_MeshPart6
+    400026: TraviaAT_Tread_MeshPart7
+    400028: TraviaAT_Tread_MeshPart8
+    400030: TraviaAT_Tread_MeshPart9
+    400032: TraviaAT_TreadSection
+    2100000: TraviaAT_Tread_Mat
+    2100002: TraviaAT_Sidewall_Mat
+    2100004: TraviaAT_RimFiller_Mat
+    2300000: TraviaAT_RimFiller
+    2300002: TraviaAT_Sidewall
+    2300004: TraviaAT_Tread_MeshPart0
+    2300006: TraviaAT_Tread_MeshPart1
+    2300008: TraviaAT_Tread_MeshPart10
+    2300010: TraviaAT_Tread_MeshPart11
+    2300012: TraviaAT_Tread_MeshPart2
+    2300014: TraviaAT_Tread_MeshPart3
+    2300016: TraviaAT_Tread_MeshPart4
+    2300018: TraviaAT_Tread_MeshPart5
+    2300020: TraviaAT_Tread_MeshPart6
+    2300022: TraviaAT_Tread_MeshPart7
+    2300024: TraviaAT_Tread_MeshPart8
+    2300026: TraviaAT_Tread_MeshPart9
+    2300028: TraviaAT_TreadSection
+    3300000: TraviaAT_RimFiller
+    3300002: TraviaAT_Sidewall
+    3300004: TraviaAT_Tread_MeshPart0
+    3300006: TraviaAT_Tread_MeshPart1
+    3300008: TraviaAT_Tread_MeshPart10
+    3300010: TraviaAT_Tread_MeshPart11
+    3300012: TraviaAT_Tread_MeshPart2
+    3300014: TraviaAT_Tread_MeshPart3
+    3300016: TraviaAT_Tread_MeshPart4
+    3300018: TraviaAT_Tread_MeshPart5
+    3300020: TraviaAT_Tread_MeshPart6
+    3300022: TraviaAT_Tread_MeshPart7
+    3300024: TraviaAT_Tread_MeshPart8
+    3300026: TraviaAT_Tread_MeshPart9
+    3300028: TraviaAT_TreadSection
+    4300000: TraviaAT_TreadSection
+    4300002: TraviaAT_Tread_MeshPart0
+    4300004: TraviaAT_Tread_MeshPart1
+    4300006: TraviaAT_Tread_MeshPart2
+    4300008: TraviaAT_Tread_MeshPart3
+    4300010: TraviaAT_Tread_MeshPart4
+    4300012: TraviaAT_Tread_MeshPart5
+    4300014: TraviaAT_Tread_MeshPart6
+    4300016: TraviaAT_Tread_MeshPart7
+    4300018: TraviaAT_Tread_MeshPart8
+    4300020: TraviaAT_Tread_MeshPart9
+    4300022: TraviaAT_Tread_MeshPart10
+    4300024: TraviaAT_Tread_MeshPart11
+    4300026: TraviaAT_Sidewall
+    4300028: TraviaAT_RimFiller
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

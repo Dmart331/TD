@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 8cf09c8b435bf664c90fe96ec0808879
+timeCreated: 1505493246
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: BeadFiller
+    100002: FirstBodyPly
+    100004: FirstSteelBelt
+    100006: HexBead
+    100008: InnerLiner
+    100010: MozzoSport_BeadFillerParent
+    100012: MozzoSport_FirstBodyPlyParent
+    100014: MozzoSport_FirstSteelBeltParent
+    100016: MozzoSport_HexBeadParent
+    100018: MozzoSport_InnerLinerParent
+    100020: MozzoSport_RimCushionParent
+    100022: MozzoSport_RimFiller
+    100024: MozzoSport_SecondBodyPlyParent
+    100026: MozzoSport_SecondSteelBeltParent
+    100028: MozzoSport_SectionMasterParent
+    100030: MozzoSport_SpiralWoundOverwrapLowerParent
+    100032: MozzoSport_SpiralWoundOverwrapUpperParent
+    100034: MozzoSport_Tire
+    100036: MozzoSport_Tire_MeshPart0
+    100038: MozzoSport_Tire_MeshPart1
+    100040: MozzoSport_Tire_MeshPart2
+    100042: MozzoSport_Tire_MeshPart3
+    100044: MozzoSport_Tire_MeshPart4
+    100046: MozzoSport_Tread
+    100048: MozzoSport_TreadParent
+    100050: //RootNode
+    100052: RimCushion
+    100054: SecondBodyPly
+    100056: SecondSteelBelt
+    100058: SpiralWoundOverwrapLower
+    100060: SpiralWoundOverwrapUpper
+    400000: BeadFiller
+    400002: FirstBodyPly
+    400004: FirstSteelBelt
+    400006: HexBead
+    400008: InnerLiner
+    400010: MozzoSport_BeadFillerParent
+    400012: MozzoSport_FirstBodyPlyParent
+    400014: MozzoSport_FirstSteelBeltParent
+    400016: MozzoSport_HexBeadParent
+    400018: MozzoSport_InnerLinerParent
+    400020: MozzoSport_RimCushionParent
+    400022: MozzoSport_RimFiller
+    400024: MozzoSport_SecondBodyPlyParent
+    400026: MozzoSport_SecondSteelBeltParent
+    400028: MozzoSport_SectionMasterParent
+    400030: MozzoSport_SpiralWoundOverwrapLowerParent
+    400032: MozzoSport_SpiralWoundOverwrapUpperParent
+    400034: MozzoSport_Tire
+    400036: MozzoSport_Tire_MeshPart0
+    400038: MozzoSport_Tire_MeshPart1
+    400040: MozzoSport_Tire_MeshPart2
+    400042: MozzoSport_Tire_MeshPart3
+    400044: MozzoSport_Tire_MeshPart4
+    400046: MozzoSport_Tread
+    400048: MozzoSport_TreadParent
+    400050: //RootNode
+    400052: RimCushion
+    400054: SecondBodyPly
+    400056: SecondSteelBelt
+    400058: SpiralWoundOverwrapLower
+    400060: SpiralWoundOverwrapUpper
+    2100000: lambert1
+    2100002: lambert7
+    2100004: lambert4
+    2300000: BeadFiller
+    2300002: FirstBodyPly
+    2300004: FirstSteelBelt
+    2300006: HexBead
+    2300008: InnerLiner
+    2300010: MozzoSport_RimFiller
+    2300012: MozzoSport_Tire_MeshPart0
+    2300014: MozzoSport_Tire_MeshPart1
+    2300016: MozzoSport_Tire_MeshPart2
+    2300018: MozzoSport_Tire_MeshPart3
+    2300020: MozzoSport_Tire_MeshPart4
+    2300022: MozzoSport_Tread
+    2300024: RimCushion
+    2300026: SecondBodyPly
+    2300028: SecondSteelBelt
+    2300030: SpiralWoundOverwrapLower
+    2300032: SpiralWoundOverwrapUpper
+    3300000: BeadFiller
+    3300002: FirstBodyPly
+    3300004: FirstSteelBelt
+    3300006: HexBead
+    3300008: InnerLiner
+    3300010: MozzoSport_RimFiller
+    3300012: MozzoSport_Tire_MeshPart0
+    3300014: MozzoSport_Tire_MeshPart1
+    3300016: MozzoSport_Tire_MeshPart2
+    3300018: MozzoSport_Tire_MeshPart3
+    3300020: MozzoSport_Tire_MeshPart4
+    3300022: MozzoSport_Tread
+    3300024: RimCushion
+    3300026: SecondBodyPly
+    3300028: SecondSteelBelt
+    3300030: SpiralWoundOverwrapLower
+    3300032: SpiralWoundOverwrapUpper
+    4300000: MozzoSport_RimFiller
+    4300002: MozzoSport_Tire_MeshPart0
+    4300004: MozzoSport_Tire_MeshPart1
+    4300006: MozzoSport_Tire_MeshPart2
+    4300008: MozzoSport_Tire_MeshPart3
+    4300010: MozzoSport_Tire_MeshPart4
+    4300012: MozzoSport_Tread
+    4300014: InnerLiner
+    4300016: RimCushion
+    4300018: FirstBodyPly
+    4300020: SecondBodyPly
+    4300022: HexBead
+    4300024: FirstSteelBelt
+    4300026: SecondSteelBelt
+    4300028: SpiralWoundOverwrapLower
+    4300030: SpiralWoundOverwrapUpper
+    4300032: BeadFiller
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: b06f60ab88db1a34eb045db148dace42, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert4
+    second: {fileID: 2100000, guid: 07e76ef9383fbf84d9536aaad5fc3930, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert7
+    second: {instanceID: 0}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
